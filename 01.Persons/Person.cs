@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.Design;
 using System.Linq;
@@ -15,18 +15,18 @@ class Person
     private int age;
     private string email;
 
-    public Person(string name, int age, string email)
+    public Person(string name, int age, string email) : this (name, age)
     {
         this.Name = name;
         this.Age = age;
         this.Email = email;
     }
 
-    public Person()
+    public Person(string name, int age) 
     {
-        this.Name = null;
-        this.Age = 0;
-        this.Email = null;
+        this.Name = name;
+        this.Age = age;
+        
     }
     
     public string Name
