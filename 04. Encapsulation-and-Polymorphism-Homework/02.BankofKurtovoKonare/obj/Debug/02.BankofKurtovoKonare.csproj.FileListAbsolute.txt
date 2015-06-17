@@ -1,6 +1,0 @@
-C:\Users\Diana\Downloads\04. OOP-Encapsulation-and-Polymorphism-Homework\04. Encapsulation-and-Polymorphism-Homework\02.BankofKurtovoKonare\bin\Debug\02.BankofKurtovoKonare.exe.config
-C:\Users\Diana\Downloads\04. OOP-Encapsulation-and-Polymorphism-Homework\04. Encapsulation-and-Polymorphism-Homework\02.BankofKurtovoKonare\obj\Debug\02.BankofKurtovoKonare.csprojResolveAssemblyReference.cache
-C:\Users\Diana\Downloads\04. OOP-Encapsulation-and-Polymorphism-Homework\04. Encapsulation-and-Polymorphism-Homework\02.BankofKurtovoKonare\bin\Debug\02.BankofKurtovoKonare.exe
-C:\Users\Diana\Downloads\04. OOP-Encapsulation-and-Polymorphism-Homework\04. Encapsulation-and-Polymorphism-Homework\02.BankofKurtovoKonare\bin\Debug\02.BankofKurtovoKonare.pdb
-C:\Users\Diana\Downloads\04. OOP-Encapsulation-and-Polymorphism-Homework\04. Encapsulation-and-Polymorphism-Homework\02.BankofKurtovoKonare\obj\Debug\02.BankofKurtovoKonare.exe
-C:\Users\Diana\Downloads\04. OOP-Encapsulation-and-Polymorphism-Homework\04. Encapsulation-and-Polymorphism-Homework\02.BankofKurtovoKonare\obj\Debug\02.BankofKurtovoKonare.pdb
